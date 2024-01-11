@@ -1,3 +1,5 @@
+# I'm close to you. Look around you carefully.
+
 import math
 import os
 import random
