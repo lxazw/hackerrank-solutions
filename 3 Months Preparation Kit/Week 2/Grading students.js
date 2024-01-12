@@ -37,8 +37,7 @@ function main() {
         if(incrementedGrade - grade < 3 )
             console.log(incrementedGrade);
         else
-            console.log(grade);
-            
+            console.log(grade);    
     }
 
 }
